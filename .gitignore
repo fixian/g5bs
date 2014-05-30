@@ -1,0 +1,7 @@
+!.gitignore
+/.htaccess
+data/
+test/
+*.key
+*.sh
+plugin/
