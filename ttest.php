@@ -10,9 +10,9 @@ if($wr_10){
     //$tmp = list($a,$b,$c) = explode("|",$wr_10)
     
     switch ($tmp) {
-        case 'a' : $str = '문자1' ; break; 
-        case 'b' : $str = '문자2' ; break;  
-        case 'c' : $str = '문자3' ; break;  
+        case 'a' : $str = 'str1' ; break; 
+        case 'b' : $str = 'str2' ; break;  
+        case 'c' : $str = 'str3' ; break;  
         default :  $str = '' ; break;
     }
 }
