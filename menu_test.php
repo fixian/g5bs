@@ -3,6 +3,8 @@
 //Superfish v1.7.4 jQuery menu - g5 통합메뉴 현재위치 표시등 1402 플록 
 //include_once("../common.php");
 //include_once(G5_PATH.'/head.sub.php');
+
+// git edt
 ?>
 <!-- link to the CSS files for this menu type -->
 <link rel="stylesheet" media="screen" href="<?php echo TEMPLATE_URL;?>/superfish.css">
