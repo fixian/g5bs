@@ -1,3 +1,4 @@
+<?php
 // 이 파일은 extend에 업로드, 지정폴더외에는 G5 원본에 수정된 사항 없음
 // 사용자 환경변수($ix) 및 bootstrap 관련 설정
 define('TEMPLATE_DIR', 'template'); // 디렉토리 이름
@@ -33,3 +34,4 @@ if (!is_dir( TEMPLATE_PATH . '/' . $ix)) {// 없다면 처음으로
     //echo "<script>location.replace('g5_url');</script>";
     exit;
 }
+?>
